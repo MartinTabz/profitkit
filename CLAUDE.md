@@ -57,6 +57,7 @@ While building the app initially (the build plan), **delegate frontend work to a
 - the **`/frontend-design:frontend-design`** skill (it must invoke it first)
 - the brand guidelines, `docs/17-brand-and-ui.md` and the docs for the feature
 - the instruction to **think about how users will be working with this app** (who they are, when and on which device they open it, what they need first; see "How users work with ProfitKit" in `docs/17-brand-and-ui.md`)
+- an instruction to use Playwright to inspect what has he implemented and give himself a feedback
 
 **Don't do this when the owner is iterating on the UI manually with you in a session.** Then make the changes directly.
 
